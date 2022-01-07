@@ -1,7 +1,7 @@
 # 즐거운이야기체(EnjoyStories)
 
 <a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/tvn/EnjoyStories.jpg" alt="BlackHanSans" style="width:300px">
+    <img src="https://webfontworld.github.io/tvn/EnjoyStories.jpg" alt="EnjoyStories" style="width:300px">
 </a>
 
 <pre>
